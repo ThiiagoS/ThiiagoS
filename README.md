@@ -1,7 +1,7 @@
 # 👋 Olá! Bem-vindo ao meu perfil no Github.
 ## Meu nome é Thiago Santos!
 
-- 💻 Trabalhando como Desenvolver Back-End Junior na Inova Sistemas Eletrônicos.
+- 💻 Trabalhando como Desenvolver Back-End na Inova Sistemas Eletrônicos.
 - 🧮 Aprendendo JavaScript/Angular/NestJS.
 - 🖊  Cursando Engenharia da Computação na Uniftec.
 
