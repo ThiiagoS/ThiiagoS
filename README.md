@@ -3,7 +3,7 @@
 
 - 💻 Trabalhando como Desenvolver Full-stack.
 - 🧮 Aprendendo JavaScript/Angular/NestJS.
-- 🖊  Cursando Engenharia da Computação.
+- 🖊  Graduado em Engenharia da Computação.
 
 <div>
 <a href="https://github.com/ThiiagoS">
